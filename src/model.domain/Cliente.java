@@ -3,5 +3,5 @@ public class Cliente {
     private String name;
     /*Adição do campo id*/
     private int id;
-    
+    private Double salario;    
 }
